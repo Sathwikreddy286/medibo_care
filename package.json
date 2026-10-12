@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": ".",
+  "homepage": "https://Sathwikreddy286.github.io/medibo_care/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
